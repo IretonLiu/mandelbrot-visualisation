@@ -1,4 +1,4 @@
-# simple-mandelbrot-visualiser
+# simple-mandelbrot-visualisation
 A simple visualisation of the mandelbrot set implemented in OpenGL. The calculations are done in GLSL, therefore in the GPU, which accelerates the process compared to a implementation on the CPU.
 
 In the visualisation of the mandelbrot set, the x and y position are taken as the real and imaginary component of c, thus making the visualisation possible.
